@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.top-container{
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.daenerys{
+    border: 5px solid white;
+    width: 100%;
+}
